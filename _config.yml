@@ -6,10 +6,10 @@ baseurl:           "/bencegoestogermany"
 url:               "http://akbence.github.io"
 
 # Social Profiles
-twitter_username:  
+ 
 github_username:   akbence
 facebook_username: bence.ak
-instagram: bence_little
+instagram_username: bence_little
 
 # Build settings
 markdown:          kramdown
